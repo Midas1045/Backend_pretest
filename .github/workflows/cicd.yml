@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - feature/pre-test
   # pull_request:
   #   branches:
   #     - cicd
